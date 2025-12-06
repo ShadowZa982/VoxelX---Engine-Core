@@ -3,7 +3,7 @@
 
 *VoxelX - là một trình Engine-Core launcher mới được xây dựng từ Electron + vite kết hợi với tài liệu mới nhất của xmcl*
 - Xây dựng trên nền tảng Electron + Vite + NodeJs với giao diện mới đẹp hơn
-- Hoạt động theo xmcl ( chung tôi không fork lại reposide của xmcl và sử dụng tại liệu tham khảo để xây dựng lại trình chạy ).
+- Hoạt động theo xmcl ( Chúng tôi không làm lại toàn bộ launcher của xmcl và sử dụng tài liệu tham khảo để xây dựng lại trình chạy ).
 - Bạn có thể tìm thấy tài liệu xây đựng tại đây nếu muốn xây dựng dự án:
 - - [Electron](https://www.electronjs.org/)
   - [Vite](https://vite.dev/)
